@@ -25,7 +25,7 @@ The Basic Chatbot project is licensed under the [MIT License](LICENSE). Feel fre
 
 ## Contact
 
-If you have any questions or feedback, you can reach the project maintainer at [your-email@example.com](mailto:parmaryogeshpal@gmail.com.com).
+If you have any questions or feedback, you can reach the project maintainer at [parmaryogeshpal@gmail.com](mailto:parmaryogeshpal@gmail.com.com).
 
 
 
