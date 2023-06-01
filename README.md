@@ -12,7 +12,7 @@ Basic Chatbot is a simple chatbot built using Python. It uses the Natural Langua
 
 ## Customization
 
-You can customize the behavior and responses of the Basic Chatbot by modifying the code. The main logic of the chatbot can be found in the `chatbot.py` file. You can adjust the way user input is processed and how the chatbot generates responses to suit your requirements.
+You can customize the behavior and responses of the Basic Chatbot by modifying the code. The main logic of the chatbot can be found in the `chatbot.ipynb` file. You can adjust the way user input is processed and how the chatbot generates responses to suit your requirements.
 
 
 ## Contributing
